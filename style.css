@@ -1,0 +1,34 @@
+#Macbook{
+    background-color: grey
+    ;
+}
+
+#title{
+float:center;
+}
+
+#Cubby{
+    background-color: grey
+    ;
+}
+
+#BED{
+    background-color: grey
+    ;
+}
+
+#switch_box{
+    background-color: grey
+    ;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+    font-size: 30;
+  }
